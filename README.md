@@ -1,6 +1,6 @@
 # Aws Utils
 
-This repository contains some util shell scripts to work with aws cloud.It can be used to automateyour daily task or in cicd pipeline.
+This repository contains some util shell scripts to work with aws cloud.It can be used to automate your daily task or in your cicd pipeline.
 
 # Prerequisites
     - Aws cli must be configured in your machine.
